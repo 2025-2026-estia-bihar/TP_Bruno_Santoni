@@ -1,4 +1,4 @@
-🖼️ Sous-projet 1 – Classification d’images (Deep Learning I)
+Sous-projet 1 – Classification d’images (Deep Learning I)
 Objectif
 
 Concevoir, implémenter et documenter un pipeline de classification d’images
@@ -51,7 +51,7 @@ L’apprentissage par transfert permet d’améliorer significativement les perf
 par rapport au CNN baseline. Les analyses montrent néanmoins des confusions
 persistantes entre certaines classes visuellement proches.
 
-⏱️ Sous-projet 2 – Prévision de séries temporelles (Machine Learning II)
+Sous-projet 2 – Prévision de séries temporelles (Machine Learning II)
 Objectif
 
 Développer un pipeline de prévision de températures basé sur des séries
